@@ -13,11 +13,11 @@
 
 <h4>Before diving into Laravel, it's essential to have a solid understanding of the following:</h4>
 
-<li>
-<ul>Basic knowledge of PHP programming language.</ul>
-<ul>Familiarity with web development concepts (HTML, CSS, JavaScript).</ul>
-<ul>Understanding of object-oriented programming (OOP) principles.</ul>
-</li>
+<ul>
+<li>Basic knowledge of PHP programming language.</li>
+<li>Familiarity with web development concepts (HTML, CSS, JavaScript).</li>
+<li>Understanding of object-oriented programming (OOP) principles.</li>
+</ul>
 
 
 <h2>Installation</h2>
@@ -26,7 +26,7 @@
 To get started with Laravel, you'll need to have PHP, Composer, and a development environment set up on your machine. Follow the official installation guide for detailed instructions: <br>
 <br>
 
-<a href="https://laravel.com/docs/10.x/installation", target=_blank>Laravel Installation Guide</a>
+<a href="https://laravel.com/docs/10.x/installation", target= '_blank'>Laravel Installation Guide</a>
 </p>
 
 
@@ -36,7 +36,7 @@ To get started with Laravel, you'll need to have PHP, Composer, and a developmen
 Laravel has excellent documentation that serves as the primary learning resource. It covers everything you need to know about the framework and provides comprehensive examples and tutorials. <br>
 <br>
 
-<a href="https://laravel.com/docs/10.x", target = _blank >Laravel Official Documentation </a>
+<a href="https://laravel.com/docs/10.x", target = '_blank' >Laravel Official Documentation </a>
 </p>
 
 
@@ -50,8 +50,8 @@ If you find any errors in this guide or have suggestions for improvement, please
 <p>Laravel has an active and welcoming community. If you encounter any challenges or have questions, you can seek help from the following platforms:
 <br>
 <br>
-<a href="https://laracasts.com/discuss", target = _blank>Laravel Forum</a> - A community forum for discussions and problem-solving.
-<a href="https://stackoverflow.com/questions/tagged/laravel", target = _blank>Stack Overflow</a>- Use the 'laravel' tag to ask questions or find solutions.
+<a href="https://laracasts.com/discuss", target ='_blank'>Laravel Forum</a> - A community forum for discussions and problem-solving. <br>
+<a href="https://stackoverflow.com/questions/tagged/laravel", target = '_blank'>Stack Overflow</a>- Use the 'laravel' tag to ask questions or find solutions.
 </p>
 
  

@@ -25,8 +25,9 @@
 
 To get started with Laravel, you'll need to have PHP, Composer, and a development environment set up on your machine. Follow the official installation guide for detailed instructions: <br>
 <br>
+<a href="https://laracasts.com/discuss", target ="_blank">Laravel Installation Guide</a>
 
-<a href="https://laravel.com/docs/10.x/installation", target= '_blank'>Laravel Installation Guide</a>
+<a href="https://laravel.com/docs/10.x/installation", target= '_blank'></a>
 </p>
 
 
@@ -50,8 +51,8 @@ If you find any errors in this guide or have suggestions for improvement, please
 <p>Laravel has an active and welcoming community. If you encounter any challenges or have questions, you can seek help from the following platforms:
 <br>
 <br>
-<a href="https://laracasts.com/discuss", target ='_blank'>Laravel Forum</a> - A community forum for discussions and problem-solving. <br>
-<a href="https://stackoverflow.com/questions/tagged/laravel", target = '_blank'>Stack Overflow</a>- Use the 'laravel' tag to ask questions or find solutions.
+<a href="https://laracasts.com/discuss", target ="_blank">Laravel Forum</a> - A community forum for discussions and problem-solving. <br>
+<a href="https://stackoverflow.com/questions/tagged/laravel", target = "_blank">Stack Overflow</a>- Use the 'laravel' tag to ask questions or find solutions.
 </p>
 
  

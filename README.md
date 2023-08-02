@@ -26,7 +26,7 @@
 To get started with Laravel, you'll need to have PHP, Composer, and a development environment set up on your machine. Follow the official installation guide for detailed instructions: <br>
 <br>
 
-<a href="https://laravel.com/docs/10.x/installation"> Laravel Installation Guide</a> -A guide to installing Laravel.
+<a href="https://laravel.com/docs/10.x/installation"> Laravel Installation Guide</a> - A guide to installing Laravel.
 </p>
 
 
@@ -36,7 +36,8 @@ To get started with Laravel, you'll need to have PHP, Composer, and a developmen
 Laravel has excellent documentation that serves as the primary learning resource. It covers everything you need to know about the framework and provides comprehensive examples and tutorials. <br>
 <br>
 
-<a href="https://laravel.com/docs/10.x", target = '_blank' >Laravel Official Documentation </a> - The Laravel Documentation to help you understand it.
+<a href="https://laravel.com/docs/10.x" > Official Documentation </a> - The Laravel Documentation to help you understand it.
+
 </p>
 
 
